@@ -1,0 +1,3 @@
+/Users/bk1031/Documents/Projects/cs24/lab01_bk1031/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bk1031/Documents/Projects/cs24/lab01_bk1031/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bk1031/Documents/Projects/cs24/lab01_bk1031/cmake-build-debug/CMakeFiles/lab01_bk1031.dir
